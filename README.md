@@ -14,10 +14,7 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ~~~ python
-'''
-Developed by : Bairav Skandan Loha
-Reference no:  21000106
-'''
+
 num_words =0
 with open('text.txt','r') as file1:
     for i in file1:
