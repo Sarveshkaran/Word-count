@@ -25,8 +25,8 @@ print("Number of words={}".format(num_words))
 
 
 ### OUTPUT:
-![](sarvesh)
-
+![](sarvesh.png)
+![](sarvesh2.png)
 
 
 ## RESULT:
